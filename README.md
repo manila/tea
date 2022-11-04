@@ -35,5 +35,5 @@ A list of the "tools" I use to brew and drink tea
 | :--- | --- | --- | --- |
 | Harney & Sons - Decaf Ceylon | 100C | 2m | ??? |
 | Assam Black Tea | 5C | 6h | ??? |
-| Assam Malty Tea | 2C | 12h | ??? |
+| Assam Malty Tea | 2C | 12h | This tea goes stale fast |
 
